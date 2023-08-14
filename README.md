@@ -1,0 +1,2 @@
+# Tribute-Page
+A tribute page is a type of web page created to honor and pay homage to a particular person, event, cause, or entity. It serves as a platform to express admiration, respect, and appreciation for the subject of the tribute. Tribute pages are often used to celebrate individuals who have made significant contributions to various fields, commemorate historical events, or raise awareness about important causes.
